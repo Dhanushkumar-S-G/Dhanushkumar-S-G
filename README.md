@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 
-- 🌱 I’m currently learning **Javascript,DSA**
+- 🌱 I’m currently learning **Go,DSA**
 
 - 👨‍💻 All of my projects are available at [https://www.dhanushkumar.in/](https://www.dhanushkumar.in/)
 
