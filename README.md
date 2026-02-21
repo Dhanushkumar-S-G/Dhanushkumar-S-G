@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Go,DSA**
 
-- 👨‍💻 All of my projects are available at [https://www.dhanushkumar.in/](https://www.dhanushkumar.in/)
+- 👨‍💻 All of my projects are available at [https://www.dhanushkumar.me/](https://www.dhanushkumar.me/)
 
 - 💬 Ask me about **Django,Python**
 
